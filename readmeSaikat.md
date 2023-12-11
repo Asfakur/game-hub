@@ -4,4 +4,4 @@
 - Installing Chakra UI
 
 
-LastL 8-4- Installing Chakra UI
+8-6- Building the Navigation Bar
